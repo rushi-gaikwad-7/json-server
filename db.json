@@ -1,16 +1,14 @@
 {
-  "posts":[
+  "employees":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+      "id":1,
+      "name":"rushi",
+      "age":"23",
+      "gender":"male",
+      "mobile":7774962961,
+      "image":"",
+      "department":"civil",
+      "salary":54692
+  }
   ]
 }
