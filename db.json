@@ -10,5 +10,13 @@
       "department":"civil",
       "salary":54692
   }
+  ],
+  "userData":[
+    {
+      "id":1,
+      "name":"Rushikesh",
+      "email":"rg@gmail.com",
+      "password":"password"
+    }
   ]
 }
