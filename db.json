@@ -2,15 +2,15 @@
  "Data":[
     {
       "title": "INCOME/PROFIT",
-      transactions: [],
+      "transactions": [],
     },
     {
       "title": "INVESTMENT/SAVING",
-      transactions: [],
+      "transactions": [],
     },
     {
       "title": "EXPENDITURE",
-      transactions: [],
+      "transactions": [],
     },
   ]
 }
