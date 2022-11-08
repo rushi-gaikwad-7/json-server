@@ -1,13 +1,16 @@
 {
-  "transactions":[
-   
-  ],
-  "income":[
-   
-  ],
-  "investment":[
-    
-  ],
-  "expenditure":[
-    ]
+ "Data":[
+    {
+      "title": "INCOME/PROFIT",
+      transactions: [],
+    },
+    {
+      "title": "INVESTMENT/SAVING",
+      transactions: [],
+    },
+    {
+      "title": "EXPENDITURE",
+      transactions: [],
+    },
+  ]
 }
